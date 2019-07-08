@@ -1,7 +1,12 @@
-hey guys
+Hey guys
 
-this is Alan and i am looking into github!
+This is Alan and i am looking into github!
 
 Thanks!
+.
+.
+.
+.
+Commit Pull Push Revert Push!
 
 
